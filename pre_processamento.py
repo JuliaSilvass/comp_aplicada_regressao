@@ -2,7 +2,7 @@ import pandas as pd
 import os
 
 # Carregar o CSV
-data = pd.read_csv('Dados/primeiro.csv')
+data = pd.read_csv('comp_aplicada_regressao/Dados/primeiro.csv')
 
 # Pasta de destino
 pasta_destino = 'Dados_atualizado/'
